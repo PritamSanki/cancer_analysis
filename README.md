@@ -225,8 +225,7 @@ The report consists of 5 interactive pages:
 
 ### Connect With Me
 
-* LinkedIn: Add Your LinkedIn URL
-* Portfolio: Add Your Portfolio URL
+* LinkedIn: www.linkedin.com/in/pritamsanki
 * Email: [pritamapp63@gmail.com](mailto:pritamapp63@gmail.com)
 
 ---
